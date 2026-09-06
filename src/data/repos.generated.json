@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Customer-Service-Data-Analyst-Agent",
+    "description": "LangGraph ReAct agent that answers questions about the Bitext customer service dataset, with persistent memory, an MCP server, and Streamlit UI.",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2026-05-31T19:59:35Z",
+    "url": "https://github.com/jonis100/Customer-Service-Data-Analyst-Agent",
+    "topics": []
+  },
+  {
+    "name": "from-llm-to-an-agent",
+    "description": null,
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2026-05-18T07:42:20Z",
+    "url": "https://github.com/jonis100/from-llm-to-an-agent",
+    "topics": []
+  },
+  {
+    "name": "jonis100",
+    "description": "Config files for my GitHub profile.",
+    "language": null,
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2026-05-05T07:33:28Z",
+    "url": "https://github.com/jonis100/jonis100",
+    "topics": [
+      "config",
+      "github-config"
+    ]
+  },
+  {
+    "name": "LiLimit",
+    "description": "Chrome extension for limit visits and time per visit on individual websites list ",
+    "language": "TypeScript",
+    "stars": 3,
+    "forks": 1,
+    "pushedAt": "2026-04-27T13:12:10Z",
+    "url": "https://github.com/jonis100/LiLimit",
+    "topics": []
+  },
+  {
+    "name": "gnome-multiple-paste",
+    "description": "A lightweight clipboard history manager for GNOME Shell",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2026-04-24T07:01:48Z",
+    "url": "https://github.com/jonis100/gnome-multiple-paste",
+    "topics": []
+  },
+  {
+    "name": "claude-quota-tracker",
+    "description": "Track your Claude.ai subscription usage with real-time quota monitoring in VS Code status bar",
+    "language": "TypeScript",
+    "stars": 11,
+    "forks": 1,
+    "pushedAt": "2026-04-19T17:09:20Z",
+    "url": "https://github.com/jonis100/claude-quota-tracker",
+    "topics": []
+  },
+  {
+    "name": "repo-summarizer",
+    "description": "GitHub Repository Summarizer API powered by LLM ",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2026-03-15T11:17:34Z",
+    "url": "https://github.com/jonis100/repo-summarizer",
+    "topics": []
+  },
+  {
+    "name": "chaos-system-ts",
+    "description": "A modern, observable URL shortener system with load generator ",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2026-01-28T14:16:16Z",
+    "url": "https://github.com/jonis100/chaos-system-ts",
+    "topics": []
+  },
+  {
+    "name": "tic-tac-toe",
+    "description": "Real-time multiplayer Tic-Tac-Toe over WebSockets with two independent backend servers and instant move sync.",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2025-12-01T10:40:39Z",
+    "url": "https://github.com/jonis100/tic-tac-toe",
+    "topics": []
+  },
+  {
+    "name": "Baby-monitor.bolt",
+    "description": null,
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2025-11-19T10:26:33Z",
+    "url": "https://github.com/jonis100/Baby-monitor.bolt",
+    "topics": []
+  },
+  {
+    "name": "OpenUni",
+    "description": null,
+    "language": "Java",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2024-03-07T13:41:18Z",
+    "url": "https://github.com/jonis100/OpenUni",
+    "topics": []
+  },
+  {
+    "name": "DForce",
+    "description": "Force down phishing websites",
+    "language": "Python",
+    "stars": 1,
+    "forks": 0,
+    "pushedAt": "2023-09-05T08:47:16Z",
+    "url": "https://github.com/jonis100/DForce",
+    "topics": []
+  },
+  {
+    "name": "nampy",
+    "description": "Optional poisoned numpy - The fundamental package for scientific computing with Python",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "pushedAt": "2023-08-27T18:28:11Z",
+    "url": "https://github.com/jonis100/nampy",
+    "topics": []
+  },
+  {
+    "name": "Quicker",
+    "description": "Quick attack on a specific phishing website",
+    "language": "Python",
+    "stars": 7,
+    "forks": 0,
+    "pushedAt": "2023-01-26T10:14:02Z",
+    "url": "https://github.com/jonis100/Quicker",
+    "topics": []
+  }
+]
