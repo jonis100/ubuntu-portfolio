@@ -8,7 +8,8 @@ export type AppId =
   | 'terminal'
   | 'about'
   | 'settings'
-  | 'reader';
+  | 'reader'
+  | 'airquality';
 
 export type Rect = { x: number; y: number; w: number; h: number };
 

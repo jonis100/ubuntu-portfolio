@@ -42,6 +42,7 @@ export const FileIcon = yaru('file.png');
 export const TrashIcon = yaru('trash.png');
 export const UbuntuLogoIcon = yaru('ubuntu-logo.png');
 export const AboutIcon = yaru('avatar.png');
+export const AirQualityIcon = yaru('weather.png');
 
 /**
  * Privasee — Yoni's venture. The real company mark, taken from the Privasee

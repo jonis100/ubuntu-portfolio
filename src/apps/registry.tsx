@@ -2,6 +2,7 @@ import { lazy } from 'react';
 import type { AppDefinition, AppId, DockLink } from '@/os/types';
 import {
   AboutIcon,
+  AirQualityIcon,
   FilesIcon,
   GitHubIcon,
   LinkedInIcon,
@@ -51,6 +52,14 @@ export const APPS: AppDefinition[] = [
     minSize: { w: 380, h: 320 },
   },
   {
+    id: 'airquality',
+    title: 'Air Quality',
+    icon: AirQualityIcon,
+    component: lazy(() => import('./airquality/AirQuality')),
+    defaultSize: { w: 420, h: 420 },
+    minSize: { w: 320, h: 300 },
+  },
+  {
     id: 'reader',
     title: 'Text Editor',
     icon: ReaderIcon,
@@ -63,7 +72,13 @@ export const APPS: AppDefinition[] = [
 ];
 
 /** Apps shown in the dock. Reader only appears once something opens it. */
-export const DOCK_APPS: AppId[] = ['files', 'terminal', 'about', 'settings'];
+export const DOCK_APPS: AppId[] = [
+  'files',
+  'terminal',
+  'about',
+  'settings',
+  'airquality',
+];
 
 /** Dock entries that open a real browser tab instead of a window. */
 export const DOCK_LINKS: DockLink[] = [

@@ -50,3 +50,7 @@ Hewitt and the Ubuntu community (CC BY-SA 4.0). The wallpaper is an original
 gradient in the Ubuntu 24.04 palette. Ubuntu and the Ubuntu logo are trademarks
 of Canonical Ltd.
 This is a personal portfolio, not affiliated with or endorsed by Canonical.
+
+The Air Quality app embeds the official
+[PurpleAir](https://www.purpleair.com/) widget for sensor #308702, which is my
+own. Readings and the AQI colour scale are PurpleAir's.
